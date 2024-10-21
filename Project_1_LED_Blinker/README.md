@@ -3,7 +3,7 @@ Day 1: LED Blinker 💡
 Welcome to Day 1 of my 100-Day Arduino Challenge. Today’s project is a simple yet essential one: making an LED blink. It’s a classic starting point for Arduino enthusiasts, and a great way to get familiar with the basics of circuits and coding.
 
 🛠️ Project Description  
-In this project, we’ll make an LED turn on and off repeatedly. The circuit is straightforward and the code is easy to follow, making it ideal for beginners.
+In this project, I’ll make an LED turn on and off repeatedly. The circuit is straightforward and the code is easy to follow, making it ideal for beginners.
 
 🔧 Components Used  
 1 x Arduino Uno  
