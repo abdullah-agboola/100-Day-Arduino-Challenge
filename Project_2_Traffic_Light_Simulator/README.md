@@ -1,6 +1,6 @@
 Day 2: Traffic Light Simulator 🚦  
 
-Project Description: Today’s project builds on the LED blinking concept from Day 1. We’ve created a Traffic Light Simulator that mimics the red, yellow, and green light sequence, just like the ones you see at a real intersection. It’s a great way to learn about timing and sequencing multiple outputs.
+Project Description: Today’s project builds on the LED blinking concept from Day 1. I’ve created a Traffic Light Simulator that mimics the red, yellow, and green light sequence, just like the ones you see at a real intersection. It’s a great way to learn about timing and sequencing multiple outputs.
 
 🛠️ Components Used:  
 Arduino Uno  
