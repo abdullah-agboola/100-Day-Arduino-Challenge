@@ -14,5 +14,5 @@ Jumper Wires
 ⚙️ Circuit Setup:  
 Connect one terminal of each LDR to 5V and the other terminal to an analog pin and GND via a 10kΩ resistor (voltage divider setup).  
 Connect each LED with a 220Ω resistor to digital pins and GND.  
-LDR1: Analog Pin A0 → LED1: Digital Pin 
+LDR1: Analog Pin A0 → LED1: Digital Pin   
 LDR2: Analog Pin A1 → LED2: Digital Pin 
