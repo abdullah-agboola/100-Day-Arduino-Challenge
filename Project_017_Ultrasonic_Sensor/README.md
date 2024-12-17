@@ -10,7 +10,7 @@ Jumper Wires
 Breadboard
 
 ⚙️ Circuit Setup:  
-VCC → 5V on Arduino
-GND → Ground
-Trigger Pin → Digital Pin 
+VCC → 5V on Arduino  
+GND → Ground  
+Trigger Pin → Digital Pin   
 Echo Pin → Digital Pin 
