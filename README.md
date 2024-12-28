@@ -29,12 +29,12 @@ Instagram: https://www.instagram.com/abdullah.agboola
 YouTube: http://www.youtube.com/@abdullah.agboola  
 
 Support This Challenge
-If you find these projects inspiring, consider:
-
+If you find these projects inspiring, consider:  
 Starring this repository  
 Sharing it with others.  
 Contributing ideas or feedback.  
 Let’s make the world smarter, one Arduino project at a time.
+
 Happy tinkering,
 Abdullah Agboola
 
