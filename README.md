@@ -1,4 +1,4 @@
-**100-Day Arduino Challenge Repository  **  
+**100-Day Arduino Challenge Repository**  
 Welcome to my 100-Day Arduino Challenge, where I document 100 innovative Arduino projects. 
 
 Each project is designed to grow in complexity and practicality, showcasing real-life applications of Arduino and electronics. Whether you're a beginner or an advanced enthusiast, there's something here for everyone to learn and explore!
