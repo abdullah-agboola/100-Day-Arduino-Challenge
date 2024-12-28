@@ -24,7 +24,7 @@ Feel free to explore each project, replicate it, and customize it for your own n
 
 🔗 Connect with me for updates and more content:    
 LinkedIn: https://www.linkedin.com/in/abdullah-agboola  
-X (formerly Twitter): https://www.x.com/agboolabdullah  
+X: https://www.x.com/agboolabdullah  
 Instagram: https://www.instagram.com/abdullah.agboola  
 YouTube: http://www.youtube.com/@abdullah.agboola  
 
