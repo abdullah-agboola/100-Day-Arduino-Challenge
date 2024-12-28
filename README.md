@@ -35,6 +35,6 @@ Sharing it with others.
 Contributing ideas or feedback.  
 Let’s make the world smarter, one Arduino project at a time.
 
-Happy tinkering,
+Happy tinkering,  
 Abdullah Agboola
 
